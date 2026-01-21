@@ -1,0 +1,9 @@
+# Aegis report outputs
+Aegis-*/
+Aegis-reports/
+
+# Other temporary files
+.settings/
+.project
+.classpath
+target/
