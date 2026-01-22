@@ -1,0 +1,11 @@
+# Composite Authn - Applied
+truist.compositeauthn.policy.applied=true
+truist.compositeauthn.policy.version=3.0.0
+
+# Authz - Applied with different Spacing
+truist.authz.policy.applied=true
+truist.authz.policy.version   =   "3.0.0"
+
+# Rate Limit - Applied (Fail version)
+ratelimit.policy.applied=true
+ratelimit.policy.version=1.0.0
