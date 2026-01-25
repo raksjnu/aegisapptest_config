@@ -1,11 +1,11 @@
 # Composite Authn - Applied with Quotes
-truist.compositeauthn.policy.applied=true
+truist.compositeauthn.policy.applied=false
 truist.compositeauthn.policy.version = "3.0.0"
 
 # Authz - Applied without Quotes
 truist.authz.policy.applied = true
-truist.authz.policy.version=3.0.0
+truist.authz.policy.version=3.0.1
 
 # Rate Limit - Not Applied (Should be skipped)
 ratelimit.policy.applied=false
-ratelimit.policy.version=1.0.0
+ratelimit.policy.version=1.2.0
